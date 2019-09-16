@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #3f3f3f;
+    height: 100px;
+    width: 100%;
+
+
+    .nav-items{
+        display:flex;
+        flex-direction: row;
+        
+
+        .nav-item{
+            font-size: 1em;
+            margin: 0px 10px;
+        }
+    }
+
+}
